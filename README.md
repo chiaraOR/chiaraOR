@@ -11,3 +11,5 @@
 ## 📊 My GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiaraOR&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chiaraOR&layout=compact&theme=radical&hide_border=true)
