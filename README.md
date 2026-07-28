@@ -10,4 +10,4 @@
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chiaraOR&theme=default&show_icons=true&hide_border=true&layout=compact)
+[![GitHub Stats]()](https://www.readmecodegen.com/custom-github-card-generator)
