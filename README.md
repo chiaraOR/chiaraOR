@@ -8,22 +8,9 @@
 
 ---
 
-## 🤝 Projects & Experience
-
-Here is a collection of my main projects, academic research (theses), and professional experiences:
-
-| Project / Role | My Contribution | Technologies |
-| :--- | :--- | :--- |
-| **Cross-Modal Resilience in Autonomous Vehicles (Master Thesis)** | Developed a cross-modal validation framework (GPS-Camera) to defend systems against Spoofing and Physical Adversarial Attacks. | `Python` `OpenCV` `YOLOv8` |
-| **Glances and Signals (Bachelor Thesis)** | Used Artificial Intelligence and eye tracking to analyze and decipher signals related to Parkinson's disease. | `AI` `Data Analysis` |
-| **Programming Teacher @ Coding Giants** | Taught visual and textual coding for the guided creation of interactive video games for students[cite: 2]. | `Visual Coding` `Scripting` |
-| **Cloud Full Stack Developer @ Bit Software Solutions** | Worked on full-stack web and cloud development tasks. | `Cloud` `Full Stack` |
-
----
-
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chiaraOR&show_icons=true&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=chiaraOR&theme=radical&hide_border=true)
 
 ---
 
