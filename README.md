@@ -10,4 +10,4 @@
 
 ## 📊 My GitHub Stats
 
-![Le mie Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=chiaraOR&show_icons=true&theme=radical&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chiaraOR&theme=radical&hide_border=true)
