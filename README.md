@@ -1,7 +1,3 @@
-## Chiara Orrigo
-
----
-
 *Software Developer & Coding Teacher | Cyber Security & AI Enthusiast | Master's in Computer Science*
 
 ---
