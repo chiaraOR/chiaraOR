@@ -10,14 +10,4 @@
 
 ## 📊 My GitHub Stats
 
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=chiaraOR&theme=radical&hide_border=true)
-
----
-
-## 📫 Let's Connect!
-
-Are you interested in collaborating on a project, or discussing cyber security and AI? Feel free to reach out:
-
-- 💼 **LinkedIn:** [chiara-orrigo](https://linkedin.com/in/chiara-orrigo)
-- 📧 **Email:** [orrigochiara@gmail.com](mailto:orrigochiara@gmail.com)
-- 📍 **Location:** Corleto Perticara, Italy
+![Le mie Statistiche GitHub](https://github-readme-stats.vercel.app/api?username=chiaraOR&show_icons=true&theme=radical&hide_border=true)
